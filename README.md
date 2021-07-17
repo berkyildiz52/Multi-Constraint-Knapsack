@@ -1,1 +1,1 @@
-# Multi-Constraint-Knapsack
+# Multi Constraint Knapsack-Problem
